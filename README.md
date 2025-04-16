@@ -1,7 +1,6 @@
 # Hi, I'm Rohan N Prasad 👋
 
 ---
-### 👋 About Me  
 I'm **Rohan N Prasad**, currently an intern at **X-workz**, where I’m learning **Core Java** to develop clean and efficient applications. I enjoy working on real-world projects and learning new technologies to enhance my programming expertise.
 I'm eager to dive into the world of software development.
 
