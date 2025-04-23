@@ -16,7 +16,7 @@ I'm eager to dive into the world of software development.
   <div align="center">
    <!-- GitHub Stats Graph -->
     <a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://streak-stats.demolab.com/?user=rohanrony19&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rohanrony19&theme=dark&hide_border=true" alt="GitHub Streak" >
 </a><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=rohanrony19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
