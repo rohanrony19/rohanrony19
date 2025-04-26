@@ -9,8 +9,7 @@ I'm eager to dive into the world of software development.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  
+  <meta charset="UTF-8">  
 </head>
 <body>
   <div align="center">
@@ -57,7 +56,4 @@ I'm eager to dive into the world of software development.
 - **Tools**: MySQL, Git, VS Code, IntelliJ  
 - **Learning**: Web technologies, Clean coding practices
 - **Hard Skill**: Data Analytic, MsExcel, PowerBI
-
-
-
 
