@@ -54,4 +54,4 @@ I'm eager to dive into the world of software development.
 - **Languages**: Java, Python, SQL, PostgreSQL 
 - **Tools**: MySQL, Git, VS Code, IntelliJ  
 - **Learning**: Web technologies, Clean coding practices
-- **Hard Skill**: Data Analytic, MsExcel, PowerBI                  
+- **Hard Skill**: Data Analytic, MsExcel, PowerBI
