@@ -10,7 +10,7 @@ I'm eager to dive into the world of software development.
 <head>
   <meta charset="UTF-8">  
 </head>
-<body>
+<body>  
   <div align="center">
    <!-- GitHub Stats Graph -->
     <a href="https://git.io/streak-stats" target="_blank">
