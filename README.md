@@ -8,7 +8,7 @@ I'm eager to dive into the world of software development.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">  
+  <meta charset="UTF-8">   
 </head>
 <body>  
   <div align="center">
