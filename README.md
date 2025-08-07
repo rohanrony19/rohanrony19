@@ -2,7 +2,7 @@
 v 
 I'm **Rohan N Prasad**, currently an intern at **X-workz**, where I’m learning **Core Java** to develop clean and efficient applications. I enjoy working on real-world projects and learning new technologies to enhance my programming expertise.
 I'm eager to dive into the world of software development.                                                                                                                                                                                                                                                                                                                                                       
-- 👨‍💻 Check my Portfolio [https://github.com/rohanrony19/Portfolio](https://github.com/rohanrony19/Portfolio)  
+- 👨‍💻 Check my Portfolio [https://github.com/rohanrony19/Portfolio](https://portfolio-using-react-eta-eight.vercel.app/)  
  
 - 📫 How to reach me **rohanprasad1434@gmail.com**    
 <!DOCTYPE html>
