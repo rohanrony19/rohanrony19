@@ -14,12 +14,12 @@ I'm eager to dive into the world of software development.
   <div align="center">
    <!-- GitHub Stats Graph -->
     <a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://streak-stats.demolab.com/?user=rohanrony19&theme=dark&hide_border=true" alt="GitHub Streak" >
+  <img src="https://streak-stats.demolab.com/?user=rohanrony19&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" >
 </a><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanrony19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanrony19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph">
  <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrony19&layout=compact&theme=tokyonight" height="150" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrony19&layout=compact&theme=chartreuse-dark" height="150" alt="Top Languages">
 
   </div>
    
