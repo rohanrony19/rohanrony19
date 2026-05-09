@@ -8,7 +8,7 @@ I'm eager to dive into the world of software development.
 <html lang="en">
 <head> 
   <meta charset="UTF-8">   
-</head>
+</head> 
 <body>  
   <div align="center">
    <!-- GitHub Stats Graph -->
