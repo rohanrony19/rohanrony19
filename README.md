@@ -11,7 +11,7 @@ I'm eager to dive into the world of software development.
 </head>  
 <body>  
   <div align="center"> 
-   <!-- GitHub Stats Graph -->
+   <!-- GitHub Stats Graph --> 
     <a href="https://git.io/streak-stats" target="_blank">
   <img src="https://streak-stats.demolab.com/?user=rohanrony19&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" >
 </a><br>
