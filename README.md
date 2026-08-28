@@ -17,6 +17,7 @@ I'm eager to dive into the world of software development.
 </a><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=rohanrony19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph">
+  
  <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanrony19&layout=compact&theme=chartreuse-dark" height="150" alt="Top Languages">
   </div>   
